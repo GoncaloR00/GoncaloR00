@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gonçalo Ribeiro</h1>
 <h3 align="center">A Machine Learning and Data Science enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goncalor00&label=Profile%20views&color=0e75b6&style=flat" alt="goncalor00" /> </p>
-
 - 🌱 I’m currently learning **mechanical engineering**
 
 <h3 align="left">Connect with me:</h3>
